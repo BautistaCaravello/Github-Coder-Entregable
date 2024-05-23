@@ -62,12 +62,12 @@ h1{
     padding: 25px;
     font-family: "Play", sans-serif;
     font-size: 3rem;
-   font-weight: bold;
+    font-weight: bold;
 }
 
 h1 span{
     color: #023f47;
-
+    font-weight: bold;
 }
 
 
