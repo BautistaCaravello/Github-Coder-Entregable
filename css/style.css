@@ -51,8 +51,8 @@ header p{
 
 }
 
-body{
-    background-color: #dddbcb;
+.body1{
+    background-color: #DDDBCB;
 
 }
 
@@ -80,25 +80,38 @@ section div:nth-child(1) h2{
     color: black;
     font-family: "Play", sans-serif;
     font-size: 2.5rem;
-    padding-left: 12%;
+    padding-left: 15%;
 }
 
 section div:nth-child(1) {
-    width: 75%;
+    width: 80%;
 
 }
 
 section div:nth-child(1) p{
     color: black;
     font-family: "Play", sans-serif;
-    width: 70%;
+    width: 75%;
     margin-top: 5px;
-    padding-left: 15%;
+    padding-left: 13%;
     text-align: center;
 
 }
 
-section div:nth-child(2){
-    justify-content: right;
-    padding: 55px;
+section div:nth-child(2) img{
+    justify-content: center;
+    padding: 5px;
+}
+
+.allfooter{
+    background-color: black;
+    padding: 25px;
+}
+
+.allfooter p{
+    text-decoration: none;
+    color: white;
+    font-family: "Play", sans-serif;
+    font-weight: bold;
+    text-align: center;
 }
