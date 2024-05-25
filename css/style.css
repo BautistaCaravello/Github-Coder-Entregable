@@ -77,10 +77,11 @@ h1 span{
 }
 
 .section-inicio div:nth-child(1) h2{
-    color: black;
+    color: #2c3c44;
     font-family: "Play", sans-serif;
     font-size: 2.5rem;
-    padding-left: 15%;
+    font-weight: bold;
+    padding-left: 14%;
 }
 
 .section-inicio div:nth-child(1) {
@@ -93,7 +94,7 @@ h1 span{
     font-family: "Play", sans-serif;
     width: 75%;
     margin-top: 5px;
-    padding-left: 13%;
+    padding-left: 14%;
     text-align: center;
 
 }
@@ -162,9 +163,14 @@ h1 span{
 
 
 .section-grupo{
-
     padding-top: 45px;
     padding-bottom: 45px;
     display: flex;
     justify-content: center;
+}
+
+.section-grupo h2{
+    font-family: "Play", sans-serif;
+    font-weight: bold;
+    color: #2c3c44;
 }
