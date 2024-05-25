@@ -174,3 +174,10 @@ h1 span{
     font-weight: bold;
     color: #2c3c44;
 }
+
+.lista-grupo{
+
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+}
