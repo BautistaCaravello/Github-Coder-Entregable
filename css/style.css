@@ -56,8 +56,21 @@ header p{
 
 }
 
-h1{
+.body2{
+    background-color: #111111;
+}
+
+.h1index{
     color: black;
+    text-align: center;
+    padding: 25px;
+    font-family: "Play", sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.h1sesiones{
+    color: white;
     text-align: center;
     padding: 25px;
     font-family: "Play", sans-serif;
