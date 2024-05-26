@@ -15,7 +15,7 @@ header{
 
 header image{
     text-align: left;
-    }    
+}    
 
 header a{
     text-decoration: none;
@@ -70,7 +70,6 @@ h1 span{
     font-weight: bold;
 }
 
-
 .section-inicio{
     display: flex;
 
@@ -104,7 +103,6 @@ h1 span{
     padding: 5px;
 }
 
-
 .allfooter{
     background-color: black;
     padding: 25px;
@@ -117,7 +115,6 @@ h1 span{
     font-weight: bold;
     text-align: center;
 }
-
 
 .section-iniciativa{
     display: flex; 
@@ -180,4 +177,5 @@ h1 span{
     display: flex;
     justify-content: space-between;
     margin: 25px;
-}
+}   
+
