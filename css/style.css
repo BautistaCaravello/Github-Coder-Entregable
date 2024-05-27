@@ -344,3 +344,19 @@ h1 span{
     
 }
 
+.extra-ini{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    transition: all 5ms ease-out;
+}
+
+.extra-ini div p{
+text-align: center;
+color: #111111;
+font-weight: lighter;
+font-size: 25px;
+
+}
