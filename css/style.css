@@ -330,11 +330,11 @@ h1 span{
 }
 
 .iniciativas div{
-justify-content: center;
+    justify-content: center;
 
 }
 
-.iniciativas h2{
+.info-ini{
     font-family: "Play", sans-serif;
     color: white; 
     text-align: center;
@@ -343,3 +343,4 @@ justify-content: center;
     padding-bottom: 100px;
     
 }
+
