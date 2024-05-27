@@ -328,3 +328,18 @@ h1 span{
     max-width: 220%;
     margin: auto;
 }
+
+.iniciativas div{
+justify-content: center;
+
+}
+
+.iniciativas h2{
+    font-family: "Play", sans-serif;
+    color: white; 
+    text-align: center;
+    background-color: #2c3c44;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+}
