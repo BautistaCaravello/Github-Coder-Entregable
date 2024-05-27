@@ -192,26 +192,34 @@ h1 span{
     margin: 25px;
 }   
 
+
+
 .section-sesion div{
     display: flex;
     justify-content: center;
-    padding: 10px;
+    align-items: center;
 
 }
 
-.section-sesion div:nth-child(1) p{
-    font-family: "Play", sans-serif;
-    font-weight: bolder;
-    color: #2c3c44;
-    font-size: 3rem;
-
-}
 
 .section-sesion div:nth-child(2) img{
-    width: 300px;
+    width: 500px;
     justify-content: space-around;
-    margin: 20px;
+    margin: 100px;
     padding-bottom: 20px;
     padding-top: 20px;
 }
 
+.section-sesion div:nth-child(3) p{
+    text-align: center;
+    font-family: "Play", sans-serif;
+    font-weight: bolder;
+    color: #2c3c44;
+    margin: 100px;
+}
+
+.section-sesion div:nth-child(3) p span{
+    color: black;
+    font-size: medium;
+
+}
