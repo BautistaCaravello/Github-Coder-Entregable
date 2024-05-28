@@ -415,3 +415,46 @@ h1 span{
     padding-top: 45px;
     padding-bottom: 45px;
 }
+
+.section-ejercicios{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+   
+}
+
+.section-ejercicios div:nth-child(1) h1{
+    font-family: "Play", sans-serif;
+    color: #2c3c44;
+    font-weight: bolder
+    
+}
+
+.section-ejercicios div:nth-child(1) h2{
+    font-family: "Play", sans-serif;
+    color: #2c3c44;
+    font-weight: bolder
+    
+}
+
+.section-ejercicios div:nth-child(1) h2 span{
+    font-family: "Play", sans-serif;
+    color: #105e68;
+    font-weight: bolder
+
+}
+
+.section-ejercicios div:nth-child(1) p{
+    font-family: "Play", sans-serif;
+    font-weight: bold;
+    
+}
+
+.practicas-diarias{
+    padding: 15px;
+    margin-top: 15px;
+    font-family: "Play", sans-serif;
+
+}
+
