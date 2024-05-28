@@ -407,3 +407,11 @@ h1 span{
     background-color: #1b9aaa;
     font-weight: bold;
 }
+
+.form-contactos{
+    display: flex;
+    width: 40%;
+    margin-left: 190px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
