@@ -16,6 +16,7 @@ header{
 
 header image{
     text-align: left;
+    float: left;
 }    
 
 header a{
@@ -122,7 +123,7 @@ h1 span{
     padding: 25px;
 }
 
-.allfooter p{
+.allfooter h4{
     text-decoration: none;
     color: white;
     font-family: "Play", sans-serif;
@@ -171,7 +172,6 @@ h1 span{
     font-weight: bold;
     padding-left: 17px;
 }
-
 
 .section-grupo{
     padding-top: 45px;
