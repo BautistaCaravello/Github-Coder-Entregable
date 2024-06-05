@@ -1,0 +1,123 @@
+.section-ejercicios{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    padding-bottom: 75px;
+
+}
+
+.section-ejercicios 
+
+        div:nth-child(1) 
+        
+                h1{
+                    font-family: "Play", sans-serif;
+                    color: #2c3c44;
+                    font-weight: bolder
+                    
+
+}
+
+
+
+.section-ejercicios 
+
+        div:nth-child(1) 
+        
+                h2{
+                    font-family: "Play", sans-serif;
+                    color: #2c3c44;
+                    font-weight: bolder
+                    
+
+}
+
+
+.section-ejercicios 
+
+        div:nth-child(1) 
+        
+                h2 
+                
+                        span{
+                            font-family: "Play", sans-serif;
+                            color: #105e68;
+                            font-weight: bolder
+
+}
+
+
+.section-ejercicios 
+
+        div:nth-child(1) 
+        
+                p{
+                    font-family: "Play", sans-serif;
+                    font-weight: bold;
+    
+}
+
+
+.section-ejercicios 
+
+        h2{
+            padding-top: 55px;
+
+}
+
+
+.practicas-diarias{
+    padding: 15px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom:75px ;
+}
+
+
+.practicas-diarias 
+
+        h3{
+            font-family: "Poppins", sans-serif;
+            color: #2c3c44;
+            font-weight: bolder
+
+}
+
+
+.practicas-diarias 
+
+        p{
+            font-family: "Play", sans-serif;
+            color: #111111;
+            font-weight: bold;
+            
+}
+
+
+.practicas-diarias 
+
+        button{
+            text-decoration: none;
+            background-color: #2c3c44;
+            color: #1b9aaa;
+            font-size: small;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: "Play", sans-serif;        
+
+}
+
+
+.practicas-diarias 
+
+        button{
+               &:hover{
+                transition: all 5ms;
+                color: #2c3c44;
+                background-color: #1b9aaa;
+                font-weight: bold;
+               }     
+
+}

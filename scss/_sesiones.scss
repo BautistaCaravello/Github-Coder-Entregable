@@ -1,0 +1,83 @@
+.section-tutor div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 45px;
+
+}
+
+
+.section-tutor
+
+    div:nth-child(1)
+
+            h2{
+                font-family: "Play", sans-serif;
+                font-weight: bold;
+                color: #2c3c44;
+                text-align: center;
+
+}
+
+
+.section-tutor
+
+    div:nth-child(2)
+
+            img{
+                width: 500px;
+                justify-content: space-around;
+                margin: 100px;
+                padding-bottom: 20px;
+
+}
+
+
+.section-tutor 
+
+    div:nth-child(3) 
+            
+            p{
+                text-align: center;
+                font-family: "Play", sans-serif;
+                font-weight: bolder;
+                color: #2c3c44;
+                margin: 100px;
+
+}
+
+
+.section-tutor 
+
+    div:nth-child(3) 
+            
+            p
+                span{
+                    color: black;
+                    font-size: medium;
+
+}
+
+
+.section-cursos 
+        
+    div:nth-child(1) 
+    
+            h2{
+                font-family: "Play", sans-serif;
+                font-weight: bold;
+                color: #2c3c44;
+                text-align: center;
+                padding-bottom: 15px;
+
+}
+
+
+.opcioncursos 
+
+        div{
+            margin: 25px;
+            border-radius: 6px;
+            margin-bottom: 25px;
+
+}

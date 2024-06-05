@@ -1,0 +1,56 @@
+header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+
+        image{
+            text-align: left;
+            float: left;
+
+        }
+
+        a{
+            text-decoration: none;
+            color: white;
+            font-family: "Play", sans-serif;
+            transition: 1s;
+            font-weight: bold;
+}
+
+        ul{
+            display: flex;
+            list-style-type: none;
+
+        }
+
+        ul 
+            li{
+                margin: 5px;
+
+            }
+
+        p{
+            display: inline-block;
+            text-decoration: none;
+            color: white;
+            font-family: "Play", sans-serif;
+            transition: 1s;
+            margin: 5px;
+            font-weight: bold;
+
+        }
+
+        ul
+            li
+                a{   
+                    &:hover{
+                        color: #1b9aaa;
+                        margin: 5px;
+                   
+                }
+            }
+        
+
+}
+
