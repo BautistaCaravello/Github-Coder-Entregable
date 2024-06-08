@@ -87,7 +87,12 @@
 }
 
 
-
+.container-iniciativa figure:hover > .capa-iniciativa{
+    opacity: 1;
+    visibility: visible;
+    transition: 5ms;
+    transition: all 500ms ease-out;
+}
 
 
 
