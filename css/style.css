@@ -7,6 +7,7 @@ header {
 header image {
   text-align: left;
   float: left;
+  width: 65px;
 }
 header a {
   text-decoration: none;
