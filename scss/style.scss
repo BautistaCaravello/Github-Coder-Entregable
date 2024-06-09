@@ -1,22 +1,13 @@
-@import "header.scss";
-
-@import "reset.scss";
-
-@import "footer.scss";
-
-@import "body.scss";
-
-@import "inicio.scss";
-
-@import "sesiones.scss";
-
-@import "iniciativa.scss";
-
-@import "contactos.scss";
-
-@import "practica.scss";
-
-@import "animaciones.scss";
+@import "/scss/reset";
+@import "/scss/layout/body";
+@import "/scss/layout/contactos";
+@import "/scss/layout/footer";
+@import "/scss/layout/header";
+@import "/scss/layout/iniciativa";
+@import "/scss/layout/inicio";
+@import "/scss/layout/practica";
+@import "/scss/layout/sesiones";
+@import "/scss/animations/animaciones";
 
 @import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');

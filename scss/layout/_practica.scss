@@ -28,7 +28,13 @@
                 h2{
                     font-family: "Play", sans-serif;
                     color: #2c3c44;
-                    font-weight: bolder
+                    font-weight: bolder;
+
+                    animation-name: cambiafuente;
+                    animation-duration: 10s;
+                    animation-iteration-count: infinite;
+                    animation-timing-function: ease-in-out;
+                    animation-delay: 1s;
                     
 
 }
