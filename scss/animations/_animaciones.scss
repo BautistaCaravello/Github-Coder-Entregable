@@ -3,27 +3,45 @@
     0%{
         color:  #2c3c44;
         font-weight: bold;
+        font-size: 34px;
     }
 
     25%{
         color: #1b9aaa;
         font-weight: bolder;
+        font-size: 39px;
     }
 
     50%{
         color: rgba(11, 103, 123, 0.6);
         font-weight: bold;
+        
     }
 
     75%{
         color: #1b9aaa;
         font-weight: bolder;
+        font-size: 39px;
     }
 
     100%{
         color:  #2c3c44;
         font-weight: bold;
+        font-size: 34px;
     }
 
+
+}
+
+div
+
+    .imagen-anim{
+        
+        transition: 2s ease-in;
+        width: 340px;
+
+            &:hover{
+                transform: rotate(360deg);
+            }
 
 }

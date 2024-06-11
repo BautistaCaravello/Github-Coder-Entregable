@@ -29,15 +29,24 @@
                     font-family: "Play", sans-serif;
                     color: #2c3c44;
                     font-weight: bolder;
-
-                    animation-name: cambiafuente;
-                    animation-duration: 10s;
-                    animation-iteration-count: infinite;
-                    animation-timing-function: ease-in-out;
-                    animation-delay: 1s;
                     
 
 }
+
+
+.section-ejercicios
+        
+        div:nth-child(1)
+
+                .animacion-h{
+
+                        animation-name: cambiafuente;
+                        animation-duration: 10s;
+                        animation-iteration-count: infinite;
+                        animation-timing-function: ease-in-out;
+                        animation-delay: 1s;
+
+                }
 
 
 .section-ejercicios 
