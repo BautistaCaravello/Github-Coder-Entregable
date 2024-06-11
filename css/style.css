@@ -366,12 +366,6 @@ h1 span {
   animation-delay: 1s;
 }
 
-.section-ejercicios div:nth-child(1) h2 span {
-  font-family: "Play", sans-serif;
-  color: #105e68;
-  font-weight: bolder;
-}
-
 .section-ejercicios div:nth-child(1) p {
   font-family: "Play", sans-serif;
   font-weight: bold;
